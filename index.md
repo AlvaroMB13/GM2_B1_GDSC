@@ -3,15 +3,15 @@ index
 Rosalía de Castro
 2026-11-26
 
-- [0.1 Relación entre longitud y anchura del pétalo en
-  *Iris*](#01-relación-entre-longitud-y-anchura-del-pétalo-en-iris)
-- [0.2 Including Plots](#02-including-plots)
+- [1 Relación entre longitud y anchura del pétalo en
+  *Iris*](#1-relación-entre-longitud-y-anchura-del-pétalo-en-iris)
+- [2 Including Plots](#2-including-plots)
 
-holiiiii , actualizacion 26-11 a las 20:25
+holiiiii , actualizacion 26-11 a las 20:25 hola caracola
 
-## 0.1 Relación entre longitud y anchura del pétalo en *Iris*
+# 1 Relación entre longitud y anchura del pétalo en *Iris*
 
-## 0.2 Including Plots
+# 2 Including Plots
 
 <div class="figure" style="text-align: center">
 
