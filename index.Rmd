@@ -2,7 +2,13 @@
 title: "index"
 author: "Rosalía de Castro"
 date: "2026-11-26"
-output: html_document
+output: 
+  html_document:
+    toc: TRUE
+    number_sections: TRUE
+  github_document:
+    toc: TRUE
+    number_sections: TRUE
 ---
 
 ```{r setup, include=FALSE}
