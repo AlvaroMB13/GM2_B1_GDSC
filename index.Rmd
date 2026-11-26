@@ -18,9 +18,9 @@ knitr::opts_chunk$set(echo = TRUE)
 holiiiii , actualizacion 26-11 a las 20:25
 
 
-## Relación entre longitud y anchura del pétalo en *Iris*
+# Relación entre longitud y anchura del pétalo en *Iris*
 
-## Including Plots
+# Including Plots
 ```{r grafico-iris, echo=FALSE, message=FALSE, warning=FALSE, fig.align="center", out.width="80%", fig.cap="Figura 1. Relación entre la longitud y la anchura del pétalo según la especie de Iris"}
 library(ggplot2)
 
