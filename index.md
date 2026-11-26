@@ -3,34 +3,26 @@ index
 Rosalía de Castro
 2026-11-26
 
-- [0.1 R Markdown](#01-r-markdown)
+- [0.1 Relación entre longitud y anchura del pétalo en
+  *Iris*](#01-relación-entre-longitud-y-anchura-del-pétalo-en-iris)
 - [0.2 Including Plots](#02-including-plots)
 
-holiiiii
+holiiiii , actualizacion 26-11 a las 20:25
 
-## 0.1 R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
-
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+## 0.1 Relación entre longitud y anchura del pétalo en *Iris*
 
 ## 0.2 Including Plots
+
+<div class="figure" style="text-align: center">
+
+<img src="index_files/figure-gfm/grafico-iris-1.png" alt="Figura 1. Relación entre la longitud y la anchura del pétalo según la especie de Iris" width="80%" />
+<p class="caption">
+
+Figura 1. Relación entre la longitud y la anchura del pétalo según la
+especie de Iris
+</p>
+
+</div>
 
 You can also embed plots, for example:
 
